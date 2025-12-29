@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Java Developer with almost 2.5 years of professional experience at Cognizant, working on enterprise backend applications.<br>
+I am a Java Developer with almost 2.6+ years of professional experience at Cognizant, working on enterprise backend applications.<br>
 My core expertise lies in Java and Spring Boot–based microservices, with a focus on building clean, scalable, and maintainable REST APIs.<br><br>
 
 I have hands-on experience with Microservices architecture using Spring Boot, Kafka for event-driven communication, Redis for caching, and JWT-based authentication.<br>
