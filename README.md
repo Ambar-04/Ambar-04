@@ -1,5 +1,17 @@
 # 💫 About Me:
-I'm currently working as Java Developer in Cognizant for 3 years<br>I'm already worked on projects using Microservice, Junit, Mockito, Kafka, Redis, Docker, Kubernetes<br>I'm looking for more challenging role <br>I'm eager to learn Microservice, System Design, Docker, Kubernetes<br>I have previously worked on Apache ServiceMix support for 1 year, where I have worked on Linux system
+I am a Java Developer with 3+ years of professional experience at Cognizant, working on enterprise backend applications.<br>
+My core expertise lies in Java and Spring Boot–based microservices, with a focus on building clean, scalable, and maintainable REST APIs.<br><br>
+
+I have hands-on experience with Microservices architecture using Spring Boot, Kafka for event-driven communication, Redis for caching, and JWT-based authentication.<br>
+I actively use JUnit and Mockito for unit testing and follow standard design principles and best practices in backend development.<br><br>
+
+I have worked with common microservices patterns such as API Gateway, Service Discovery, Circuit Breaker, and centralized configuration as part of real-world projects.<br>
+I also have working knowledge of Docker and Kubernetes from a developer’s perspective, including basic containerization and understanding of deployments on Google Kubernetes Engine (GKE), while collaborating closely with DevOps teams for CI/CD and infrastructure-related activities.<br><br>
+
+Earlier in my career, I worked for 1 year on an Apache ServiceMix support project, supporting integration flows written in Camel XML DSL.<br>
+My role involved monitoring and supporting Linux-based systems (CentOS/Ubuntu), analyzing logs, rescheduling feeds, debugging production issues, and using tools such as PuTTY and FileZilla.<br><br>
+
+I am looking for more challenging backend roles where I can deepen my skills in microservices, system design, and distributed systems, while gradually strengthening my hands-on exposure to Docker and Kubernetes as a Java developer.
 
 
 ## 🌐 Socials:
