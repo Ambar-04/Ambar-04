@@ -1,9 +1,9 @@
 # 💫 About Me:
-I am a Java Developer with 3+ years of professional experience at Cognizant, working on enterprise backend applications.<br>
+I am a Java Developer with almost 2.5 years of professional experience at Cognizant, working on enterprise backend applications.<br>
 My core expertise lies in Java and Spring Boot–based microservices, with a focus on building clean, scalable, and maintainable REST APIs.<br><br>
 
 I have hands-on experience with Microservices architecture using Spring Boot, Kafka for event-driven communication, Redis for caching, and JWT-based authentication.<br>
-I actively use JUnit and Mockito for unit testing and follow standard design principles and best practices in backend development.<br><br>
+I have used JUnit and Mockito for unit testing and follow standard design principles and best practices in backend development.<br><br>
 
 I have worked with common microservices patterns such as API Gateway, Service Discovery, Circuit Breaker, and centralized configuration as part of real-world projects.<br>
 I also have working knowledge of Docker and Kubernetes from a developer’s perspective, including basic containerization and understanding of deployments on Google Kubernetes Engine (GKE), while collaborating closely with DevOps teams for CI/CD and infrastructure-related activities.<br><br>
